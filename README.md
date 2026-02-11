@@ -7,3 +7,22 @@
 <br>
 
 <p> The plan is to turn it into more broadly usable template. </p>
+
+>> *Hover - Task Details - Original Version*
+
+<img width="663.5" height="359" alt="original design, hover function" src="https://github.com/user-attachments/assets/29fe5a4e-3fdd-4568-9816-f24ee35df5ef" />  
+
+  
+**Testing More Birdseye View**  
+
+> Testing visually via Codepen for speed before adding here, screenshot below
+
+  
+<img width="1167" height="592" alt="image" src="https://github.com/user-attachments/assets/b42997d7-197a-4478-8069-2816165bb3ed" />  
+
+
+
+>> *Hover*
+
+
+<img width="585" height="293" alt="birdseye view hover" src="https://github.com/user-attachments/assets/80a570f3-69ef-42ae-9d57-d78415f1bb10" />
