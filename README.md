@@ -1,4 +1,9 @@
 <h1> GANTT Chart </h1>
+
+<img width="614" height="294" alt="image" src="https://github.com/user-attachments/assets/b96d8862-ac14-4585-bff9-244e480a4ee5" />
+
+
+
 <p><b>Original Creator:  </b><a href="https://codepen.io/jeetix">jeetix - Codepen</a></p>
 <p><b>Original Design:  </b>https://codepen.io/jeetix/pen/wBwxVwo </p>
 <p> This is a simple template for a GANTT using JS, HTML and CSS. It utilises <a href="https://code.highcharts.com/"> Highcharts JS</a> charting library. </p>
